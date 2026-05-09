@@ -1,0 +1,12 @@
+# DadShot 👨📸
+
+Daily dad-selfie app with groups, leaderboards, and a relegation system.
+
+**Setup:** open `SETUP.md` and follow the steps. ~30 minutes, no coding required.
+
+## Scoring
+- **On time post** (within 24h): 2 points
+- **Late post** (24-48h): 1 point
+- **Group bonuses**: 100% participation = +2 group pts, 50%+ = +1
+- **Relegation**: 14 days inactive = relegated badge + −5 group penalty
+- **Escape relegation**: 5 posts in 7 days
